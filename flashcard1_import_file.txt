@@ -1,0 +1,15 @@
+What keyword is used to define a function in Python?;def
+What keyword is used to exit a loop prematurely in Python?;break
+What keyword is used to create an empty class in Python?;pass
+Which method is used to add an element to the end of a list?;append
+What data type is the result of 3.14?;float
+Which keyword is used to check if a value is present in a list?;in
+What function is used to read input from the user?;input
+What is the output type of type([])?;type
+What operator is used for string concatenation in Python?;+
+What keyword is used to create a generator in Python?;yield
+Which keyword is used to handle exceptions in Python?;except
+What method is used to remove whitespace from the beginning and end of a string?;strip
+What is the default return value of a function that does not return anything explicitly?;None
+Which keyword is used to create a lambda function in Python?;lambda
+What built-in function is used to get the length of an object?;len
